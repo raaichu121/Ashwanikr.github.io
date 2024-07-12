@@ -1,23 +1,76 @@
-Project Overview
+# Ashwin's Portfolio Website
 
-This project is a simple, responsive website template. The template includes a fixed header with a navigation menu, a hero section, a portfolio section, a resume section, an about section, a services section, a blog section, a clients section, a contact section, and a footer. The website layout is designed using HTML, CSS, and JavaScript.
+This repository contains the source code for Ashwin Chaudhary's portfolio website. The website showcases Ashwin's work, resume, and contact information.
 
-File Structure
+## Table of Contents
 
-The project consists of the following files:
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
--index.html: The main HTML file that structures the website.
--styles.css: The CSS file that styles the website.
--script.js: The JavaScript file that adds interactivity to the website.
+## Demo
 
-Usage
+Check out the live demo of the website [here](https://raaichu121.github.io/Ashwanikr.github.io/).
 
-To use this template, follow these steps:
+## Features
 
-Clone the repository:
+- Responsive design
+- Interactive navigation menu
+- Sections for portfolio, resume, about, services, and contact
+- Client testimonials
+- Smooth scrolling and animations
 
-git clone <repository_url> https://raaichu121.github.io/Ashwanikr.github.io/
-Navigate to the project directory:
+## Technologies Used
 
-cd <project_directory>
-Open index.html in your web browser to view the website.
+- HTML5
+- CSS3
+- JavaScript
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/raaichu121/your-repo-name.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd your-repo-name
+    ```
+
+3. Open `index.html` in your preferred web browser:
+    ```bash
+    open index.html
+    ```
+
+## Usage
+
+### Project Structure
+
+- `index.html` - The main HTML file containing the structure of the website.
+- `styles.css` - The CSS file for styling the website.
+- `script.js` - The JavaScript file for interactive features.
+
+### Customization
+
+You can customize the content of the website by editing the HTML, CSS, and JavaScript files. 
+
+- **HTML:** Modify the content in `index.html` to update sections such as Home, Portfolio, Resume, About, Services, and Contact.
+- **CSS:** Update styles in `styles.css` to change the appearance of the website.
+- **JavaScript:** Modify `script.js` to change interactive features like the navigation menu.
+
+### JavaScript Functionality
+
+The `script.js` file includes functionalities such as:
+- Toggling the navigation menu on click.
+- Adding/removing active classes based on scroll position.
+- Initializing on page load.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
