@@ -136,6 +136,37 @@ section {
 }
 /* header */
 
+.cert-link {
+  text-decoration: none;
+  color: inherit;
+  display: block; /* Make entire box clickable */
+}
+
+.box {
+  width: 300px; /* or your preferred width */
+  margin: 20px auto;
+  background: #1e1e1e; /* or your design */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.image img {
+  width: 100%;
+  display: block;
+}
+
+.content {
+  padding: 10px;
+  text-align: center;
+}
+
+.content h2 {
+  color: white;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
 /* portfolio */
 /* utility class */
 .heading {
