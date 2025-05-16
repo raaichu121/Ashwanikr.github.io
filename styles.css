@@ -48,6 +48,7 @@ section {
   padding: 5rem 9%;
 }
 
+
 /* home */
 .home {
   height: 100vh;
@@ -84,6 +85,7 @@ section {
   letter-spacing: 0.3rem;
 }
 /* home */
+
 
 /* header */
 .header {
@@ -134,7 +136,9 @@ section {
 .header.active .menu {
   color: var(--dark-bg);
 }
+
 /* header */
+
 
 /* portfolio */
 /* utility class */
@@ -149,6 +153,8 @@ section {
 .heading span {
   font-weight: 700;
 }
+
+
 /* utility class */
 
 .portfolio .box-container .box .image {
